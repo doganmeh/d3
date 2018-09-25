@@ -1,0 +1,4 @@
+UPDATE: d3 modules have separate github repos, thus git submodule is impractical, download from d3js.org or
+https://github.com/d3/d3/releases and paste here
+
+see inspinia update for how to update git submodules
